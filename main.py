@@ -15,12 +15,12 @@ class AmazonLaptopScraper:
 
     def _get_brand_listing(self):
         self.driver.get(url=self.listing_url)
-        self._get_product_urls()
+        self._get_products()
 
     def _close_driver(self):
         self.driver.close()
 
-    def _get_product_urls(self):
+    def _get_products(self):
         products_table = self.driver.find_element(By.CLASS_NAME, "ProductGrid__grid__f5oba")
         products = products_table.find_elements(By.CLASS_NAME, "ProductGridItem__itemOuter__KUtvv")
         for product in products:
