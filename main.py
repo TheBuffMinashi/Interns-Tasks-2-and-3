@@ -8,11 +8,13 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 class AmazonLaptopScraper:
+    listing_url: str = ''
+    product_urls: list = []
+    products: list[dict] = []
+
     def __init__(self, listing_url):
         self.listing_url = listing_url
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-        self.product_urls = []
-        self.products: list[dict] = []
 
         self._get_brand_listing()
 
@@ -67,4 +69,4 @@ class AmazonLaptopScraper:
 
 if __name__ == '__main__':
     link = "https://www.amazon.com/stores/page/9FE6FA16-F70F-4905-88E3-63344313BFA9?ingress=2&visitId=7aaafd95-46f1-45f7-b5bf-f3e7bc2cf7c9&ref_=ast_bln"
-    AmazonLaptopScraper(listing_url=link)
+    scraped_data = AmazonLaptopScraper(listing_url=link)
