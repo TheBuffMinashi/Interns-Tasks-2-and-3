@@ -1,0 +1,3 @@
+title: ASUS TUF Dash 15 (2021) Ultra Slim Gaming Laptop, 15.6â€ 240Hz FHD, GeForce RTX 3070, Intel Core i7-11375H, 16GB DDR4, 1TB PCIe NVMe SSD, Wi-Fi 6, Windows 10, Moonlight White, TUF516PR-DS77-WH 
+price: $1,369.47 
+url: https://www.amazon.com/ASUS-TUF516PR-DS77-WH-i7-11375H-Windows-Notebook/dp/B099QXCBKN?ref_=ast_sto_dp&th=1&psc=1 

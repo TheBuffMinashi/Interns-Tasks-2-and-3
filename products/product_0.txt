@@ -1,0 +1,3 @@
+title: ASUS TUF F15 Gaming Laptop, 15.6" 144Hz FHD IPS-Type Display, Intel Core i5-10300H Processor, GeForce GTX 1650, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX506LH-AS51 
+price: $722.00 
+url: https://www.amazon.com/ASUS-IPS-Type-i5-10300H-Processor-FX506LH-AS51/dp/B09SVQ25XH?ref_=ast_sto_dp&th=1&psc=1 

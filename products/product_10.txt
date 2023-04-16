@@ -1,0 +1,3 @@
+title: ASUS ROG Strix Scar 15 (2022) Gaming Laptop, 15.6” 240Hz IPS QHD Display, NVIDIA GeForce RTX 3080, Intel Core i9 12900H, 16GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11, G533ZS-DS94 
+price: $1,595.99 
+url: https://www.amazon.com/ASUS-Display-GeForce-Keyboard-G533ZS-DS94/dp/B09VKDSHNZ?ref_=ast_sto_dp&th=1&psc=1 

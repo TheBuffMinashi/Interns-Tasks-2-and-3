@@ -1,0 +1,3 @@
+title: ASUS TUF F17 Gaming Laptop, 17.3" 144Hz FHD IPS-Type Display, Intel Core i5-11400H Processor, GeForce RTX 3050, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX706HCB-ES51 
+price: $679.00 
+url: https://www.amazon.com/ASUS-IPS-Type-i5-11400H-Processor-FX706HCB-ES51/dp/B09SVQY3PF?ref_=ast_sto_dp 

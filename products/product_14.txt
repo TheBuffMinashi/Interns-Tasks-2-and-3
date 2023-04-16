@@ -1,0 +1,3 @@
+title: ASUS ROG Strix G15 (2022) Gaming Laptop, 15.6" 300Hz IPS FHD Display, NVIDIA GeForce RTX 3050, AMD Ryzen 7 6800H, 16GB DDR5, 1TB SSD, RGB Keyboard, Windows 11 Home, G513RC-IS74,Gray 
+price: $1,099.99 
+url: https://www.amazon.com/ASUS-Display-GeForce-Keyboard-G513RC-IS74/dp/B0B9RZCFSR?ref_=ast_sto_dp 

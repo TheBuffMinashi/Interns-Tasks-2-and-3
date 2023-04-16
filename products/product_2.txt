@@ -1,0 +1,3 @@
+title: ASUS TUF Dash 15 (2022) Gaming Laptop, 15.6" 144Hz FHD Display, Intel Core i7-12650H, GeForce RTX 3060, 16GB DDR5, 512GB SSD, Thunderbolt 4, Windows 11 Home, Off Black, FX517ZM-AS73 
+price: $1,149.99 
+url: https://www.amazon.com/ASUS-Display-i7-12650H-Thunderbolt-FX517ZM-AS73/dp/B09RMH9B6F?ref_=ast_sto_dp&th=1&psc=1 
