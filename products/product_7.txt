@@ -1,0 +1,3 @@
+title: ASUS ROG Zephyrus Duo 16 (2022) Gaming Laptop, 16” 165Hz IPS Type WUXGA 16:10 Display, NVIDIA GeForce RTX 3060, AMD Ryzen 7 6800H, 16GB DDR5, 1TB SSD, Windows 11, GX650RM-ES74 
+price: $2,199.99 
+url: https://www.amazon.com/ASUS-Zephyrus-Gaming-Laptop-165Hz/dp/B09TPTHSNY?ref_=ast_sto_dp&th=1&psc=1 

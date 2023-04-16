@@ -1,0 +1,3 @@
+title: ASUS TUF Gaming F15 Laptop, 15.6" 144Hz FHD IPS-Type Display, Intel Core i7-11800H Processor, GeForce RTX 3050 Ti, 16GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX506HEB-IS73 
+price: $1,099.99 
+url: https://www.amazon.com/ASUS-IPS-Type-i7-11800H-Processor-FX506HEB-IS73/dp/B0B13Y8LK2?ref_=ast_sto_dp&th=1&psc=1 
