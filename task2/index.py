@@ -26,9 +26,6 @@ else:
     pickle.dump(browser.get_cookies(), open("cookies.pkl", "wb"))
     time.sleep(6)
 
-# //*[@id="nav-global-location-popover-link"]
-# element_l = WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.XPATH, '//*[@id="glow-ingress-block"]')))
-# element_l.click()
 element = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.ID, 'nav-hamburger-menu')))
 element.click()
 time.sleep(4)
@@ -47,32 +44,59 @@ time.sleep(4)
 element = WebDriverWait(browser, 20).until(EC.presence_of_element_located((By.XPATH, '//li[@aria-label="Gaming"]/span/a')))
 element.click()
 time.sleep(3)
-# search_result = WebDriverWait(browser, 10).until(EC.visibility_of_all_elements_located((By.XPATH, '//*[@id="search"]/div[1]/div[1]/div/span[1]/div[1]/div [@data-component-type="s-search-result"]')))
-# # search_result = 'a','b','c','d','e','f','g'
-data = []
+# search_result = 'https://google.com/a','https://google.com/ab','https://google.com/ac','https://google.com/ad','https://google.com/ae','https://google.com/af','https://google.com/ag'
+# data = []
 n=0
-# f = open("result_1.txt", "a")
+links = []
+
 while True:
     try:
         search_result = WebDriverWait(browser, 20).until(EC.visibility_of_all_elements_located((By.XPATH, '//*[@id="search"]/div[1]/div[1]/div/span[1]/div[1]/div [@data-component-type="s-search-result"]')))
         for item in search_result:
-            name= item.find_element(By.XPATH, './/h2/a/span').text
-            n = n+1
-            laptop = str(n) + "-" + name
-            data.append(laptop)
-            time.sleep(3)
-            # f.write(laptop)
+            link_page = item.find_element(By.XPATH, './/h2/a').get_attribute('href')
+            links.append(link_page)
+
         next_page = WebDriverWait(browser, 20).until(EC.presence_of_element_located((By.XPATH, '//a[starts-with(@class, "s-pagination-item s-pagination-next")]')))
         next_page.click()
         time.sleep(2)
     except:
         break
-f = open("result.txt", "a", encoding="utf-8")
-for laptop in data:
-    f.write(laptop + "\n\n")
-    time.sleep(1)
-f.close()
-print(data)
+
+for link in links:
+    n= n+1
+    browser.get(link)
+    try:
+        Brand_Laptop = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.XPATH, '//tr[contains(@class, "po-brand")]/td[2]/span'))).text
+    except:
+        Brand_Laptop = "Does not exist"
+    try:
+        Series_Laptop = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.XPATH, '//tr[contains(@class, "po-model_name")]/td[2]/span'))).text
+    except:
+        Series_Laptop = "Does not exist"
+    try:
+        Price_Laptop = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.XPATH, '//*[contains(@class, "priceToPay")]/span/span [@class="a-price-whole"]'))).text
+    except:
+        Price_Laptop = "Does not exist"
+    try:
+        Description_Laptop = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.ID, 'productTitle'))).text
+    except:
+        Description_Laptop = "Does not exist"
+    try:
+        Link_Laptop = link
+    except:
+        Link_Laptop = "Does not exist"
+    try:
+        About_items = WebDriverWait(browser, 20).until(EC.visibility_of_all_elements_located((By.XPATH, '//div[@id="feature-bullets"]/ul/li')))
+    except:
+        About_items = ["Does not exist",]
+    time.sleep(4)
+    file = open(str(n) + ".txt", "a", encoding="utf-8")
+    file.write("Brand:"+ Brand_Laptop + "\n\n" + "Series:"+ Series_Laptop + "\n\n" + "Price:"+ Price_Laptop + "\n\n" + "Description:"+ Description_Laptop + "\n\n" + "Link:"+ Link_Laptop + "\n\n")
+    for About_item in About_items:
+        about = About_item.find_element(By.XPATH, './/span').text
+        file.write(about + "\n\n")
+    file.close()
+    time.sleep(15)
 
 input("quit?")
 browser.quit()
