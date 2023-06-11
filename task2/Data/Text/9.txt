@@ -1,0 +1,16 @@
+Brand => ASUS
+
+Series => ZenBook Pro Duo 15
+
+Price => 2,320
+
+Description => ASUS ZenBook Pro Duo 15 OLED UX582 Laptop, 15.6” OLED 4K UHD Touch Display, Intel Core i7-10870H, 16GB RAM, 1TB SSD, GeForce RTX 3070, ScreenPad Plus, Windows 10 Pro, Celestial Blue, UX582LR-XS74T
+
+Link => https://www.amazon.com/ASUS-i7-10870H-ScreenPad-Celestial-UX582LR-XS74T/dp/B08ZJQVV6G/ref=sr_1_9?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-9
+
+Professional-grade performance: With a 10th Generation Intel Core i7 processor, 16 GB of RAM, 1 TB SSD, and NVIDIA GeForce RTX 3070 graphics, ASUS Zenbook Pro Duo 15 OLED is a true powerhouse
+Amazing visuals: this 15” touchscreen laptop has a 4K OLED HDR NanoEdge display.  ASUS OLED laptop computers provide ultrasmooth visuals, professional-grade colors and better eye care
+Extreme durability: Durable laptop that meets ultra-demanding military standards for durability, giving you protection and peace of mind wherever you go
+Enhanced productivity: the tilting ScreenPad Plus – a secondary 14 inch 4K touchscreen that automatically tilts up for comfortable viewing - gives you endless ways to optimize your multitasking experience
+Ergonomic features: with the ASUS ErgoLift Stand, tilting ScreenPad Plus, LED NumberPad, and the included detachable palm rest and ASUS active stylus pen, this ASUS laptop will give you a more ergonomic and stable experience
+Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details

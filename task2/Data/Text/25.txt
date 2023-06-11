@@ -1,0 +1,15 @@
+Brand => ASUS
+
+Series => TUF Gaming A15
+
+Price => 745
+
+Description => ASUS TUF Gaming A15 Gaming Laptop, 15.6” 144Hz FHD IPS-Type, AMD Ryzen 5 4600H, GeForce GTX 1650, 8GB DDR4, 512GB PCIe SSD, Gigabit Wi-Fi 5, Windows 10 Home, FA506IH-AS53
+
+Link => https://www.amazon.com/ASUS-IPS-Type-GeForce-Gigabit-FA506IH-AS53/dp/B0865THZCL/ref=sr_1_25?qid=1686388563&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-25
+
+NVIDIA GeForce GTX 1650 4GB GDDR6 Graphics (Base: 1380MHz, Boost: 1515MHz, TDP: 50W)
+AMD Ryzen 5 4600H Processor (up to 4.0 GHz)
+15.6” 144Hz FHD (1920x1080) IPS-Type display
+512GB PCIe NVMe M.2 SSD | 8GB DDR4 3200MHz RAM | Windows 10 Home
+Durable MIL-STD-810H military standard construction

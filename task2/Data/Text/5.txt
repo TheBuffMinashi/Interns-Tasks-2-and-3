@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => ROG Strix G15
+
+Price => 999
+
+Description => ASUS ROG Strix G15 (2022) Gaming Laptop, 15.6" 300Hz IPS FHD Display, NVIDIA GeForce RTX 3050, AMD Ryzen 7 6800H, 16GB DDR5, 1TB SSD, RGB Keyboard, Windows 11 Home, G513RC-IS74,Gray
+
+Link => https://www.amazon.com/ASUS-Display-GeForce-Keyboard-G513RC-IS74/dp/B0B9RZCFSR/ref=sr_1_5?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-5
+
+SUPERCHARGED RTX GRAPHICS - Gameplay graphics are silky smooth with the NVIDIA GeForce RTX 3050 4GB GDDR6 at 95W with ROG Boost, with cutting-edge AI features like NVIDIA DLSS and Ray-Tracing.Voltage:20.0 volts
+MUX SWITCH BOOST - A MUX Switch lets the GPU communicate directly with the display, increasing performance and decreasing latency
+ROG INTELLIGENT COOLING - a robust thermal system with Thermal Grizzly Liquid Metal Thermal Compound and self cleaning dual fans with anti-dust technology extend system longevity
+READY FOR ANYTHING - Use your gaming laptop to stream and multi-task with ease thanks to an AMD Ryzen 7 6800H CPU with 20MB Cache, up to 4.7 GHz, 8 cores/16 threads and 16GB of blisteringly fast 4800MHz DDR5 RAM on Windows 11 Home
+SWIFT VISUALS – Stay one step ahead of the competition thanks to its 300Hz/3ms 15.6” Full HD (1920 x 1080) IPS Type Display, which covers 100% sRGB color space
+AMPLE STORAGE FOR ALL YOUR GAMES - Store all your game library, and load them fast on your 1TB PCIe NVMe M.2 SSD to take advantage of the full RTX gaming experience
+AURA SYNC - 4-zone RGB Keyboard, RGB light bar, RGB Logo

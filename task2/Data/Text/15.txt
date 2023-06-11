@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => Does not exist
+
+Price => 3,299
+
+Description => ASUS ROG Strix Scar 17 (2023) Gaming Laptop, 17.3” QHD 240Hz/3ms, 100% DCI-P3 Display, GeForce RTX 4090, AMD Ryzen 9 7945HX, 32GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G733PY-XS96
+
+Link => https://www.amazon.com/ASUS-Display-GeForce-7945HX-G733PY-XS96/dp/B0BT6BHXS4/ref=sr_1_15?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-15
+
+POWER THROUGH ANYTHING – Powered by Windows 11 Pro, an AMD Ryzen 9 7945HX processor, and NVIDIA GeForce RTX 4090 Laptop GPU at 175W Max TGP, the SCAR 17 allows you to handle even the most demanding games with ease.
+BLAZING FAST MEMORY AND STORAGE – Multitask swiftly with 32GB of DDR5-4800MHz memory and say goodbye to loading times with 1TB of PCIe 4x4 in RAID 0 with a raw throughput up to 7000mb/s.
+LIGHTNING FAST, CRYSTAL CLEAR DISPLAY – You can’t beat the enemy if you don’t see them coming. The SCAR 17 features an ultra-fast QHD 240Hz/3ms panel and support Dolby Vision HDR, and Adaptive-Sync for a stellar gaming and viewing experience.
+ROG INTELLIGENT COOLING – To put this amount of power in a gaming laptop, you need an even better cooling solution. The SCAR features upgraded liquid metal on both the CPU and GPU, and a vapor chamber among other premium features, to allow for better sustained performance over long gaming sessions.
+MUX SWITCH WITH ADVANCED OPTIMUS - A MUX Switch increases laptop gaming performance by routing frames directly to the display, while Advanced Optimus optimizes battery life by switching between GPU modes automatically depending on the task.
+MAKE THEM STARE – Wrapped in a robust milled aluminum chassis, sporting configurable RGB lighting on the bottom of the chassis and keyboard per key, and adorned with ROG icons in its design, the SCAR 17 stands out in the world of premium gaming laptops.
+XBOX GAME PASS ULTIMATE – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play.

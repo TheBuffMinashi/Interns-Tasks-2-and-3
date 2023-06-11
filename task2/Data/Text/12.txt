@@ -1,0 +1,15 @@
+Brand => ASUS
+
+Series => TUF
+
+Price => 949
+
+Description => ASUS TUF F15 Gaming Laptop, 15.6" FHD 144Hz Adaptive-Sync Display, Intel Core i5-11400H, GeForce RTX 3050, 32GB RAM, 1TB PCIe SSD, Webcam, RGB Backlit Keyboard, Wi-Fi 6, Windows 11 Home, Grey
+
+Link => https://www.amazon.com/ASUS-Adaptive-Sync-Display-i5-11400H-Keyboard/dp/B0BLXPXH4B/ref=sr_1_12?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-12
+
+【Memory & Storage】The PC memory has been upgraded to 32GB DDR4 SDRAM for enhanced high bandwidth to easily switch back and forth between open applications; the Hard drive has been upgraded to 1TB PCIe NVMe M.2 SSD for fast boot-up and speedy data transfer
+【Processor】Intel Core i5-11400H Processor (6 Cores, 12 Threads, 12MB L3 Cache, 2.7GHz at Base Clock, up to 4.5GHz at Max Boost Clock), with NVIDIA GeForce RTX 3050 Graphics (4GB GDDR6)
+【Screen】15.6-inch, FHD (1920 x 1080) display, Refresh Rate: 144Hz, Adaptive-Sync
+【Tech Specs】1 x Thunderbolt 4, 3 x USB 3.2 Gen 1 Type-A, 1 x RJ45, 1 x HDMI, 1 x 3.5mm Audio Jack
+【Operating System】Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Better multi-monitor functionality, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps

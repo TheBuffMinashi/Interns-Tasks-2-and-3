@@ -1,0 +1,16 @@
+Brand => ASUS
+
+Series => ROG Strix G17
+
+Price => 1,749
+
+Description => ASUS ROG Strix G17 (2023) Gaming Laptop, 17.3” QHD 240Hz, GeForce RTX 4060, AMD Ryzen 9 7945HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G713PV-DS94, Eclipse Gray
+
+Link => https://www.amazon.com/ASUS-GeForce-Windows-G713PV-DS94-Eclipse/dp/B0BT5SBS72/ref=sr_1_7?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-7
+
+ESPORT DOMINATION – Power up with Windows 11, an AMD Ryzen 9 7945HX processor, and an NVIDIA GeForce RTX 4060 Laptop GPU at 140W Max TGP.
+BLAZING FAST MEMORY AND STORAGE – Multitask swiftly with 16GB of DDR5-4800MHz memory and speed up loading times with 1TB of PCIe 4x4.
+ROG INTELLIGENT COOLING – To put this amount of power in a gaming laptop, you need an even better cooling solution. The Strix features Thermal Grizzly’s Conductonaut Extreme liquid metal on the CPU among other premium features, to allow for better sustained performance over long gaming sessions.
+COMPETITION HERTZ – As a purpose-built gaming machine, The Strix G17 has a fast QHD 240Hz/3ms panel to help you stay locked to your target. It also covers 100% of the DCI-P3 color space and feature Dolby Vision and Adaptive-Sync support for a stellar viewing experience.
+MUX SWITCH WITH ADVANCED OPTIMUS - A MUX Switch increases laptop gaming performance by 5-10% by routing frames directly from the dGPU to the display bypassing the iGPU. With Advanced Optimus the switch between iGPU and dGPU becomes automatic based on the task optimizing battery life.
+XBOX GAME PASS ULTIMATE – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play.

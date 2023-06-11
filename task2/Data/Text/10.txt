@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => TUF Gaming F17
+
+Price => 1,229
+
+Description => ASUS TUF Gaming F17 (2023) Gaming Laptop, 17.3” FHD 144Hz Display, GeForce RTX 4050, AMD Ryzen 7 7735HS, 16GB DDR5, 1TB PCIe 4.0 SSD, Wi-Fi 6, Windows 11, FA707NU-DS74,Mecha Gray
+
+Link => https://www.amazon.com/ASUS-Display-GeForce-Windows-FA707NU-DS74/dp/B0BWH9XCHC/ref=sr_1_10?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-10
+
+READY FOR ANYTHING – Jump straight into the action with Windows 11, AMD Ryzen 7 7735HS processor, and NVIDIA GeForce RTX 4050 Laptop GPU at 140W Max TGP.
+FAST MEMORY AND STORAGE – Multitask quickly with 16GB of DDR5-4800MHz memory and speed up loading times with 1TB of PCIe 4.0. Upgrading the storage is a breeze with the addition SSD slot.
+NEVER MISS A MOMENT – Keep up with the pros thanks to its FHD 144Hz display. With Adaptive-Sync the display synchronizes with the GPU’s output to reduce lag, minimize stuttering, and eliminate visual tearing for ultra-smooth gameplay.
+BLOW AWAY THE COMPETITION – High core count CPUs create more heat when at full load. The TUF Gaming A17 is equipped to handle its high-power CPU with an upgraded pair of 84-blade Arc Flow Fans.
+MUX SWITCH WITH ADVANCED OPTIMUS - A MUX Switch increases laptop gaming performance by routing frames directly to the display, while Advanced Optimus optimizes battery life by switching between GPU modes automatically depending on the task.
+MILITARY GRADE ENDURANCE – True to its TUF Gaming name, the A17 must successfully survive a rigorous battery of MIL-STD-810H tests. Test devices are exposed to drops, vibration, humidity, and extreme temperatures to ensure reliability.
+XBOX GAME PASS ULTIMATE – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play.
