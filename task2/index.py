@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 import pickle
+import csv
 
 #////////////////// Step 1: Configuration //////////////////#
 
@@ -48,8 +49,6 @@ time.sleep(4)
 element = WebDriverWait(browser, 20).until(EC.presence_of_element_located((By.XPATH, '//li[@aria-label="Gaming"]/span/a')))
 element.click()
 time.sleep(3)
-# search_result = 'https://google.com/a','https://google.com/ab','https://google.com/ac','https://google.com/ad','https://google.com/ae','https://google.com/af','https://google.com/ag'
-# data = []
 n=0
 links = []
 
@@ -80,7 +79,7 @@ for link in links:
     try:
         Price_Laptop = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.XPATH, '//*[contains(@class, "priceToPay")]/span/span [@class="a-price-whole"]'))).text
     except:
-        Price_Laptop = "Does not exist"
+        Price_Laptop = "0"
     try:
         Description_Laptop = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.ID, 'productTitle'))).text
     except:
@@ -108,6 +107,28 @@ for link in links:
             break
     file.close()
     time.sleep(15)
+
+#////////////////// Step 4: Data is cleared and saved in .CSV format. //////////////////#
+# Counts the number of extracted files.
+Dir_len = len(os.listdir('./Data/Text/'))
+
+List= []
+n=1
+for x in range(Dir_len):
+    f=open("./Data/Text/" + str(n) + ".txt", "r", encoding="utf-8")
+    Text_file =f.read()
+    Text_file_CLR = Text_file.replace('Brand => ', '').replace('Series => ', '').replace('Price => ', '').replace('Description => ', '').replace('Link => ', '')
+    contents= Text_file_CLR.split('\n\n')
+    List.append(contents)
+    n= n+1
+    f.close()
+
+
+file_csv = open("./Data/Result_1.csv", "w", newline="", encoding="utf-8")
+writer_csv = csv.writer(file_csv)
+writer_csv.writerow( ['Brand', 'Series', 'Price', 'Description', 'link', 'About'] )
+writer_csv.writerows( List )
+file_csv.close()
 
 input("quit?")
 browser.quit()
