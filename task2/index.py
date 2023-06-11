@@ -8,12 +8,14 @@ import time
 import os
 import pickle
 
+#////////////////// Step 1: Configuration //////////////////#
+
 chrome_options = webdriver.ChromeOptions()
 prefs = {"profile.managed_default_content_settings.images": 2}
 chrome_options.add_experimental_option("prefs", prefs)
 browser = webdriver.Chrome(chrome_options=chrome_options)
 
-# browser = webdriver.Chrome()
+
 browser.get('https://www.amazon.com/')
 time.sleep(5)
 if os.path.exists('cookies.pkl'):
@@ -25,6 +27,8 @@ if os.path.exists('cookies.pkl'):
 else:
     pickle.dump(browser.get_cookies(), open("cookies.pkl", "wb"))
     time.sleep(6)
+
+#////////////////// Step 2: Extract information //////////////////#
 
 element = WebDriverWait(browser, 30).until(EC.presence_of_element_located((By.ID, 'nav-hamburger-menu')))
 element.click()
@@ -90,11 +94,18 @@ for link in links:
     except:
         About_items = ["Does not exist",]
     time.sleep(4)
-    file = open(str(n) + ".txt", "a", encoding="utf-8")
-    file.write("Brand:"+ Brand_Laptop + "\n\n" + "Series:"+ Series_Laptop + "\n\n" + "Price:"+ Price_Laptop + "\n\n" + "Description:"+ Description_Laptop + "\n\n" + "Link:"+ Link_Laptop + "\n\n")
+
+#////////////////// Step 3: Save the information in text format //////////////////#
+
+    file = open("./Data/Text/" + str(n) + ".txt", "a", encoding="utf-8")
+    file.write("Brand => "+ Brand_Laptop + "\n\n" + "Series => "+ Series_Laptop + "\n\n" + "Price => "+ Price_Laptop + "\n\n" + "Description => "+ Description_Laptop + "\n\n" + "Link => "+ Link_Laptop + "\n\n")
     for About_item in About_items:
-        about = About_item.find_element(By.XPATH, './/span').text
-        file.write(about + "\n\n")
+        try:
+            about = About_item.find_element(By.XPATH, './/span').text
+            file.write(about + "\n")
+        except:
+            file.write("Does not exist")
+            break
     file.close()
     time.sleep(15)
 
