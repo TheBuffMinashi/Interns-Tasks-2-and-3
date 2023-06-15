@@ -2,7 +2,7 @@ Brand => ASUS
 
 Series => Asus Chromebook
 
-Price => Does not exist
+Price => NaN
 
 Description => ASUS C423NA Chromebook 14" HD Laptop (Intel Dual Core Celeron Processor N3350, 4GB DDR4 RAM, 64GB SSD) Webcam, WiFi, Bluetooth, Type-C, Google Chrome OS - Silver (Renewed)
 

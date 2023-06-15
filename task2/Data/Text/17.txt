@@ -2,7 +2,7 @@ Brand => ASUS
 
 Series => ROG Strix SCAR 18
 
-Price => Does not exist
+Price => NaN
 
 Description => ASUS ROG Strix Scar 18 (2023) Gaming Laptop, 18” Nebula Display 16:10 QHD 240Hz/3ms, GeForce RTX 4090, Intel Core i9-13980HX, 32GB DDR5, 2TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G834JY-XS97,Black
 

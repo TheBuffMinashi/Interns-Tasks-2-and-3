@@ -1,6 +1,6 @@
 Brand => ASUS
 
-Series => Does not exist
+Series => NaN
 
 Price => 3,299
 
