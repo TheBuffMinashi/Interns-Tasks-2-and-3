@@ -1,13 +1,17 @@
 'use client';
 import Image from 'next/image'
-import React, { useState } from "react"
-import QuestionAiDef from "..//components/questionAi"
+import React, { useState } from 'react'
 
 export default function Home() {
   // Handles the submit event on form submit.
   const [showResult, setShowResult] = useState(null);
+  const [sendBtnClass, setSendBtnClass] = useState("m-5 bg-neutral-600 text-white p-2 rounded-md");
+  const [sendBtn, setSendBtn] = useState(false);
   const handleSubmit = async (event) => {
     event.preventDefault()
+    setSendBtn(true)
+    setSendBtnClass("m-5 bg-red-400 text-white p-2 rounded-md")
+    setShowResult("Loading...")
     const data = { question: event.target.question_input.value, }
     const JSONdata = JSON.stringify(data)
     const endpoint = 'http://127.0.0.1:8000/api/req/'
@@ -16,8 +20,9 @@ export default function Home() {
      body: JSONdata }
     const response = await fetch(endpoint, options)
     const result = await response.json()
-    console.log(result.message)
-    setShowResult(result.message);
+    setShowResult(result.message)
+    setSendBtn(false)
+    setSendBtnClass("m-5 bg-neutral-600 text-white p-2 rounded-md")
   }
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -47,12 +52,14 @@ export default function Home() {
             type="search"
             id="question_input"
             name="question_input"
-            pattern="[a-z0-9]{1,15}"
-            title="question should digits (0 to 9) or alphabets (a to z)."
+            required
+            pattern="[a-zA-Z0-9\?' ']{8,38}"
+            placeolder="question?"
+            title="question should digits (0 to 9) or alphabets (a to z) and Length (8-38)"
           />
-          <button className="m-5 bg-neutral-600 text-white p-2 rounded-md" type="submit">Send</button>
+          <button className={sendBtnClass} disabled={sendBtn} type="submit">Send</button>
         </form>
-        <p className="m-0 max-w-[30ch] text-sm !text-red-800 ">
+        <p className="m-0 max-w-[50ch] text-sm !text-red-800 text-left ">
           {showResult}
         </p>
       </div>
