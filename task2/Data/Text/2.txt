@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => FX506HF-ES51
+
+Price => 699
+
+Description => ASUS TUF Gaming F15 Gaming Laptop, 15.6” 144Hz FHD Display, Intel Core i5-11400H Processor, GeForce RTX 2050, 8GB DDR4 RAM, 512GB PCIe SSD Gen 3, Wi-Fi 6, Windows 11, FX506HF-ES51
+
+Link => https://www.amazon.com/ASUS-Display-i5-11400H-Processor-FX506HF-ES51/dp/B0BWHJQMKH/ref=sr_1_2?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-2
+
+FX506HF-ES51
+SUPERCHARGED RTX GRAPHICS - Gameplay graphics are silky smooth with the NVIDIA GeForce RTX 2050 4GB GDDR6 at 70W with Dynamic Boost.
+READY FOR ANYTHING - Use your gaming laptop to stream and multitask with ease thanks to an Intel Core i5-11400H with 12M Cache, up to 4.5 GHz, 6 cores and 8GB of blisteringly fast 3200MHz DDR4 RAM on Windows 11.
+SWIFT VISUALS – Stay one step ahead of the competition thanks to its 144Hz 15.6” Full HD (1920 x 1080) IPS Type Display
+AMPLE STORAGE FOR ALL YOUR GAMES - Store all your game library, and load them fast on your 512GB PCIe NVMe M.2 SSD to take advantage of the full RTX gaming experience.
+MILITARY GRADE TOUGHNESS - Durable MIL-STD-810H military standard lives in the TUF line as the devices are tested against drops, vibration, humidity and extreme temperatures to ensure reliability.
+CONNECT TO EVERYTHING - 1x RJ45 LAN port, 3x USB 3.2 Gen 1 Type-A, 1x USB Type C with Thunderbolt 4 and DisplayPort support

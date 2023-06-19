@@ -1,0 +1,15 @@
+Brand => ASUS
+
+Series => Asus Chromebook
+
+Price => NaN
+
+Description => ASUS C423NA Chromebook 14" HD Laptop (Intel Dual Core Celeron Processor N3350, 4GB DDR4 RAM, 64GB SSD) Webcam, WiFi, Bluetooth, Type-C, Google Chrome OS - Silver (Renewed)
+
+Link => https://www.amazon.com/C423NA-Chromebook-HD-Processor-Bluetooth/dp/B07ZT682VS/ref=sr_1_14?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-14
+
+14 inch HD Anti-Glare NanoEdge (Non-TouchScreen) display featuring an ultra-narrow bezel with anti-glare coating to reduce reflections
+Memory: 4GB LPDDR4 RAM; Storage: 64GB eMMC SSD (Everything is Original)
+Powered by the Intel Dual-Core Celeron N3350 Processor 1.1GHz (2M Cache, turbo up to 2.4 GHz) for fast and snappy performance.
+Integrated HD Webcam, Intel HD Graphics 500 , 802.11 Dual Band Wireless-AC 2x2 WLAN + Bluetooth 4.0
+Chromebook runs on Chrome OS - an operating system by Google that is built for the way we live today. It comes with built-in virus protection, updates automatically*, boots up in seconds and continues to stay fast over time

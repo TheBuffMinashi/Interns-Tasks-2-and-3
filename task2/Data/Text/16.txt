@@ -1,0 +1,15 @@
+Brand => ASUS
+
+Series => L510MA-DS04
+
+Price => 290
+
+Description => ASUS Laptop L510 Ultra Thin Laptop, 15.6” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 128GB Storage, Windows 10 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-DS04
+
+Link => https://www.amazon.com/ASUS-Display-Processor-Microsoft-L510MA-DS04/dp/B08XB41YVQ/ref=sr_1_16?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-16
+
+Efficient Intel Celeron N4020 Processor (4M Cache, up to 2.8 GHz)
+15.6” FHD (1920x1080) Display
+128GB eMMC Flash Storage and 4GB DDR4 RAM
+Comes with Windows 10 in S mode and a FREE upgrade to Windows 11 (when available1)
+Slim and Portable: 0.72” thin and weighs only 3.59 lbs (battery included)

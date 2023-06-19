@@ -1,0 +1,16 @@
+Brand => ASUS
+
+Series => TUF Gaming F15
+
+Price => 1,299
+
+Description => ASUS TUF Gaming F15 Gaming Laptop, 15.6” 144Hz FHD IPS-Type Display, Intel Core i7-11800H Processor, GeForce RTX 3060, 16GB DDR4 RAM, 1TB PCIe SSD, Wi-Fi 6, Windows 10 Home, TUF506HM-ES76
+
+Link => https://www.amazon.com/ASUS-IPS-Type-i7-11800H-Processor-TUF506HM-ES76/dp/B096VBG93J/ref=sr_1_24?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-24
+
+Aspect Ratio:16:9
+NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics up to 1630MHz at 90W (95W with Dynamic Boost 2.0)
+11th Gen Intel Core i7-11800H Processor (24M Cache, up to 4.6 GHz, 8 Cores)
+15.6” 144Hz Full HD (1920x1080) IPS-Type display
+1TB PCIe NVMe M.2 SSD | 16GB DDR4 3200MHz RAM
+Durable MIL-STD-810H military standard construction

@@ -1,0 +1,15 @@
+Brand => ASUS
+
+Series => Vivobook Pro 15 OLED
+
+Price => 1,139
+
+Description => ASUS Vivobook Pro 15 OLED Laptop, 15.6” 2.8K OLED Display, AMD Ryzen 7 6800H Mobile CPU, NVIDIA GeForce RTX 3050 Ti GPU, 16GB RAM, 1TB SSD, Windows 11 Home, Quiet Blue, M6500RE-EB74
+
+Link => https://www.amazon.com/ASUS-Vivobook-Display-GeForce-M6500RE-EB74/dp/B0BFJZHR2B/ref=sr_1_20?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-20
+
+Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details
+ASUS Vivobook Pro 15 OLED laptop comes with 15.6”2.8K (2880 x 1620) OLED 16:9 aspect ratio with 120Hz refresh rate and ultra-slim NanoEdge bezels
+The laptop comes with 600nits peak brightness, 100% DCI-P3 color gamut, 1,000,000:1 Contrast ratio, VESA CERTIFIED Display HDR True Black 600, and Pantone Validated
+Latest AMD Ryzen 7 6800H Mobile Processor (8-core/16-thread, 16MB cache, up to 4.7 GHz max boost) and AMD Radeon Graphics
+NVIDIA GeForce RTX 3050 Ti Laptop GPU, with 4GB GDDR6 - Studio Ready

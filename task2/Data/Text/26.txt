@@ -1,0 +1,10 @@
+Brand => ASUS
+
+Series => Zephyrus 14
+
+Price => 1,279
+
+Description => Asus 2022 Newest ASUS - ROG Zephyrus 14'' FHD 144Hz Gaming Laptop - AMD Ryzen 7 5800HS - NVIDIA GeForce RTX 3060 - Moonlight White w/Mouse Pad (24GB RAM|1TB PCIe SSD)
+
+Link => https://www.amazon.com/Asus-2022-Newest-ASUS-Moonlight/dp/B0B82F1WSV/ref=sr_1_26?qid=1686388563&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-26
+

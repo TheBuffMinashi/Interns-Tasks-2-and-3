@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => TUF Gaming F15
+
+Price => 899
+
+Description => ASUS TUF Gaming F15 (2022) Gaming Laptop, 15.6” FHD 144Hz Display, GeForce RTX 3050, Intel Core i5-12500H, 16GB DDR4, 512GB PCIe SSD, Wi-Fi 6, Windows 11, FX507ZC-ES53,Mecha Gray
+
+Link => https://www.amazon.com/ASUS-Display-GeForce-i5-12500H-FX507ZC-ES53/dp/B0BTZWF5G2/ref=sr_1_6?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-6
+
+READY FOR ANYTHING – Jump straight into the action with Windows 11, a 12th Gen Intel Core i5-12500H processor, and NVIDIA GeForce RTX 3050 Laptop GPU at 95W Max TGP.
+FAST MEMORY AND STORAGE – Multitask quickly with 16GB of DDR4-3200MHz memory and speed up loading times with 512GB of PCIe 3.0. Upgrading the storage is a breeze with the addition SSD slot.
+NEVER MISS A MOMENT – Keep up with the pros thanks to its FHD 144Hz display. With Adaptive-Sync the display synchronizes with the GPU’s output to reduce lag, minimize stuttering, and eliminate visual tearing for ultra-smooth gameplay.
+BLOW AWAY THE COMPETITION – High core count CPUs create more heat when at full load. The TUF Gaming F15 is equipped to handle its high-power CPU with an upgraded pair of 84-blade Arc Flow Fans.
+MUX SWITCH - A MUX Switch increases laptop gaming performance by 5-10% by routing frames directly from the dGPU to the display bypassing the iGPU.
+MILITARY GRADE ENDURANCE – True to its TUF Gaming name, the F15 must successfully survive a rigorous battery of MIL-STD-810H tests. Test devices are exposed to drops, vibration, humidity, and extreme temperatures to ensure reliability.
+XBOX GAME PASS ULTIMATE – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play.

@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => Zephyrus 14
+
+Price => 1,319
+
+Description => Asus - ROG Zephyrus 14 WQXGA 120Hz Gaming Laptop – AMD Ryzen 9 6900HS– AMD Radeon RX 6700S-Window 11 Home，with HDMI Cable(16GB RAM | 1TB SSD)
+
+Link => https://www.amazon.com/Asus-Zephyrus-6900HS-6700S-Window-Home%EF%BC%8C/dp/B0BPM64574/ref=sr_1_23?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-23
+
+AMD Ryzen 9 6900HS 8 Core - 16 Thread Processor, 3.3 GHz (Max Turbo Frequency 4.9 GHz), 16 MB Smart Cache ，Windows 11 Home
+AMD Radeon RX 6700S w/ 8 GB GDDR6
+14 WQXGA (2560 x 1600) 120Hz 3ms IPS-Level, 500-nits, 100 percentage DCI-P3
+16 GB of fast DDR5 4800MHz Ram，1TB PCIe NVMe SSD; Original Seal is opened for upgrade ONLY. And we do provide a 1-year standard warranty on upgraded RAM/SSD
+MUX Switch for Direct GPU Mode：For competitive games, use the built-in MUX switch to switch to direct GPU mode to reduces latency and boost performance by an average of 9 percentage
+Robust Connectivity：1x HDMI 2.0b, 2x USB 3.2 Type A (Gen 2), 2x USB 3.2 Type C；
+Features： 720p IR Camera, Backlit Keyboard, Windows Hello；WiFi 6E

@@ -1,0 +1,17 @@
+Brand => ASUS
+
+Series => Zephyrus Duo
+
+Price => 3,496
+
+Description => ASUS ROG Zephyrus Duo 16 (2022) Gaming Laptop, 16” Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4080, AMD Ryzen 9 7945HX, 32GB DDR5, 1TB SSD, Windows 11 Pro, GX650PZ-XS96
+
+Link => https://www.amazon.com/ASUS-Zephyrus-Gaming-Laptop-240Hz/dp/B0BS9Z5FF7/ref=sr_1_18?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-18
+
+ROG SCREENPAD PLUS – Do more with a second 14.1” integrated touchscreen that rises automatically as you lift off the lid. The opening doubles as an air intake improving airflow by up to 30% for even better cooling.
+THE PINNACLE OF PERFORMANCE - Game or create on the cutting edge with Windows 11 Pro, an AMD Ryzen 9 7945HX processor and NVIDIA GeForce RTX 4080 Laptop GPU at 165W Max TGP.
+MULTITASK WITH EASE – With 32GB of high-speed DDR5-4800MHz memory, multitasking is effortless and smooth, while 1TB of PCIe 4x4 storage with a raw throughput up to 7000mb/s allows you to load large files, applications, and games, at warp speeds.
+MINI LED DISPLAY – Whether gaming or creating the Duo 16’s 16:10 display provides the best experience with its QHD 240Hz/3ms Mini LED panel with up to 1100nits brightness, 1024 dimming zones, and 100% DCI-P3 with Pantone validation.
+ROG INTELLIGENT COOLING – To put this amount of power in a thin gaming laptop, you need an even better cooling solution. The Duo 16 features upgraded liquid metal on the CPU, and a wide AAS Plus air intake among other premium features, to allow for better sustained performance over long gaming sessions.
+MORE FPS WITH MUX SWITCH - A MUX Switch increases laptop gaming performance by 5-10% by routing frames directly from the dGPU to the display bypassing the iGPU.
+XBOX GAME PASS ULTIMATE – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play.

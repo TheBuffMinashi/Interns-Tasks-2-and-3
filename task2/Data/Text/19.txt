@@ -1,0 +1,16 @@
+Brand => ASUS
+
+Series => ROG Flow Z13
+
+Price => 999
+
+Description => ASUS ROG Flow Z13 (2022) Gaming Laptop Tablet, 13.4” 120Hz IPS Type FHD 16:10 Display, Intel Core i5-12500H CPU, 16GB LPDDR5, 512GB PCIe SSD, Free Bundle Detachable RGB Keyboard, GZ301ZA-PS53, Black
+
+Link => https://www.amazon.com/ASUS-Gaming-Laptop-Tablet-120Hz/dp/B0B7KHCTLZ/ref=sr_1_19?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-19
+
+ULTIMATE VERSATILITY - Z13’s tablet form factor gives you the flexibility to follow your flow. Use the touchscreen with active stylus support for drawing and taking notes or attach the included keyboard for serious work and play.
+FLEX YOUR PROCESSING POWER - Speed through any task on the go with the Intel Core i5-12500H Processor with 18MB Cache and up to 4.5GHz clock speed.
+SAY GOODBYE TO SLOW LOAD TIMES - Store your entire game library on 512GB of swift PCIe 4.0 SSD and alt-tab almost instantly with 16GB of LPDDR5 RAM.
+ROG INTELLIGENT COOLING - Great performance in such compact space can only be achieved with even greater cooling, and the Z13 takes it to the next level, with liquid metal on the CPU and a custom vapor chamber module.
+EXPAND YOUR VIEW - See everything with a 16:10 13.4” FHD (1920x1200) 120z touchscreen, covering 100% sRGB color space and PANTONE Validated for the most accurate color reproduction.
+XG MOBILE SUPPORT - Connect to the XG Mobile eGPU and docking station to turn your convertible into a workstation. The XG Mobile is smaller than typical eGPUs, but harnesses more power thanks to increased bandwidth. Sold separately.

@@ -1,0 +1,16 @@
+Brand => ASUS
+
+Series => ROG Strix SCAR 15 Gaming Laptop
+
+Price => 2,699
+
+Description => ASUS ROG Strix Scar 15 (2022) Gaming Laptop, 15.6” 240Hz IPS QHD Display, NVIDIA GeForce RTX 3080 Ti, Intel Core i9 12900H, 32GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Pro, G533ZX-XS96
+
+Link => https://www.amazon.com/ASUS-Display-GeForce-Keyboard-G533ZX-XS96/dp/B09RN27LHT/ref=sr_1_21?qid=1686388560&refinements=p_89%3AASUS%2Cp_n_feature_twenty-seven_browse-bin%3A23710032011&rnid=23710028011&s=computers-intl-ship&sr=1-21
+
+Aspect Ratio:16:9
+NVIDIA GeForce RTX 3080 Ti 16GB GDDR6 - ROG Boost up to 1445 MHz at 150W (125W + 25W with Dynamic Boost)
+MUX switch - GPU MUX switch lets the GPU communicate directly with the display, increasing performance and decreasing latency
+Latest 12th Gen Intel Core i9-12900H Processor - 24M Cache, up to 5.0 GHz, 14 cores (6 P-cores and 8 E-cores)
+240Hz 3ms 15.6” Quad HD (2560 x 1440) IPS Type Display with 100% DCI-P3
+32GB DDR5 4800MHz RAM | 1TB PCIe 4.0 NVMe M.2 Performance SSD | Windows 11 Professional
