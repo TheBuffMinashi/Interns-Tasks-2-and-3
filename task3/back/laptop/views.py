@@ -25,7 +25,6 @@ def answer(q):
     df = pd.read_csv('../../task2/data/Result.csv')
     del df['Brand']
     del df['link']
-    print(df.head(n=2))
     agent = create_pandas_dataframe_agent(OpenAI(temperature=0), df, verbose=True)
     question_user = q
     answer_ai = agent.run(question_user)
